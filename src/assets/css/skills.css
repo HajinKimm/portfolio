@@ -1,0 +1,16 @@
+.html {
+    width: 90%;
+    animation-delay: 0.1s;
+}
+.css {
+    width: 85%;
+    animation-delay: 0.2s;
+}
+.javascript{
+    width: 75%;
+    animation-delay: 0.3s;
+}
+.react{
+    width: 70%;
+    animation-delay: 0.4s;
+}
