@@ -12,7 +12,7 @@ const About = () => {
                 <div>
                     <div className='about_wrap'>
                         <article className='pic'>
-                            <img src="/images/about/hajin_about_img.png" alt="김하진" />
+                            <img src="./images/about/hajin_about_img.png" alt="김하진" />
                         </article>
                         <article className='desc'>
                             <h3><span>김하진</span>Kim Hajin</h3>
