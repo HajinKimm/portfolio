@@ -1,8 +1,6 @@
 import styled from "styled-components";
 
 export const VisualWrap = styled.div`
-        /* height: 1050px; */
-        /* background: #fff; */
         position: relative;
         .circle{
             height: 500px; 
@@ -71,19 +69,19 @@ export const VisualWrap = styled.div`
                         width:50px;
                     }
                     &:nth-child(1){ animation: ani1 0.5s linear 1 forwards;}
-                    &:nth-child(2){ animation: ani2 0.7s linear 1 forwards;}
-                    &:nth-child(3){ animation: ani3 0.9s linear 1 forwards;}
-                    &:nth-child(4){animation: ani4 1.1s linear 1 forwards;}
-                    &:nth-child(5){animation: ani5 1.3s linear 1 forwards;}
-                    &:nth-child(6){animation: ani6 1.5s linear 1 forwards;}
-                    &:nth-child(7){animation: ani7 1.7s linear 1 forwards;}
-                    &:nth-child(8){animation: ani7 1.9s linear 1 forwards;}
-                    &:nth-child(9){animation: ani7 2.1s linear 1 forwards;}
+                    &:nth-child(2){ animation: ani2 0.6s linear 1 forwards;}
+                    &:nth-child(3){ animation: ani3 0.7s linear 1 forwards;}
+                    &:nth-child(4){animation: ani4 0.8s linear 1 forwards;}
+                    &:nth-child(5){animation: ani5 0.9s linear 1 forwards;}
+                    &:nth-child(6){animation: ani6 1.0s linear 1 forwards;}
+                    &:nth-child(7){animation: ani7 1.1s linear 1 forwards;}
+                    &:nth-child(8){animation: ani7 1.2s linear 1 forwards;}
+                    &:nth-child(9){animation: ani7 1.3s linear 1 forwards;}
                 }
                 &.back{
                     margin-top: 100px;
                     span{
-                        animation-delay: 1.5s;
+                        animation-delay: 0.8s;
                     }
                 }
             }
